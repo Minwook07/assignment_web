@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Web Development Project 🚀
 
 ## About This Project
@@ -37,4 +38,9 @@ A: Check back in 2040 for an update. Or not.
 - **Name**: Not enough coffee ☕
 - **Position**: Professional procrastinator 🐢
 - **Skill**: Writing README files that make you laugh (or cry) 😢
+=======
+"# Assignment-Group2-Bootstrap" 
+"# Mini-Project-CSC-Express-Raw" 
+"# assignment_web" 
+>>>>>>> a4bb2372068ae7209dc0538d6c3090b79989ecb4
 "# assignment_web" 
